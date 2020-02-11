@@ -23,7 +23,7 @@ As with many things, home coffee is a *“Quality, convenience, cost: pick two�
 
 *Caveat: very little personal experience here. You might could skip this section. Life’s too short for bad coffee (and [coffee is too environmentally destructive](https://www.sustainablebusinesstoolkit.com/environmental-impact-coffee-trade/) to waste it on bad brewing).*
 
-Maximally convenient, cheap… and bad? [Amazon Basics](https://amzn.to/31HBMjC) Mr Coffee-esque brewer and preground grocery store coffee. Done. 
+Maximally convenient, cheap... and bad? [Black & Decker](https://amzn.to/38liMtw) plastic Mr Coffee-esque brewer and preground grocery store coffee. Done. 
 
 Still here? Good.
 
