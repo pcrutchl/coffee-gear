@@ -93,9 +93,9 @@ tk
 
 ## But what about home espresso?
 
-No.
+😬
 
-Okay, there are caveats, but usually: no. For “Cheap and convenient” I can’t think of a situation where it’s worth it. It’s not worth the headache, or the heartache when you make a big outlay for low-end machine (under ~$400) and a decent grinder (under ~$200) and come away with something really disappointing. Generally you’re better off spending $2–$3 at your local coffee shop, which is a steal since that bag of good beans that costs $16 makes probably 17 shots (12 oz / 20 g), *and* that’s with no waste. You’re gonna waste a lot figuring out espresso. Or just spend the $250+ on the “good and convenient” coffee solution and go to your coffee shop to have little a espresso, as a treat.
+Okay, there are caveats, but usually: 😬. For “Cheap and convenient” I can’t think of a situation where it’s worth it. It’s not worth the headache, or the heartache when you make a big outlay for low-end machine (under ~$400) and a decent grinder (under ~$200) and come away with something really disappointing. Generally you’re better off spending $2–$3 at your local coffee shop, which is a steal since that bag of good beans that costs $16 makes probably 17 shots (12 oz / 20 g), *and* that’s with no waste. You’re gonna waste a lot figuring out espresso. Or just spend the $250+ on the “good and convenient” coffee solution and go to your coffee shop to have little a espresso, as a treat.
 
 The exception — *maybe — *is doing it by hand. I have a friend who loves his [ROK Grinder](https://amzn.to/2SwmwBW) and [Flair Signature lever machine](https://amzn.to/2UEvH65). You can do some really cool pressure profiling on it but there’s a learning curve and you need to add your own hot water (and hand-applied pressure). It’s definitely the Hario V60 of the espresso world — inexpensive (relatively) and good. You’re still running well into the $400 range for the set, and you’re doing a lot by hand.
 
