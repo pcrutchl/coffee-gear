@@ -1,9 +1,9 @@
 
 # Starting or upgrading a home coffee setup
 
-For some reason I find myself in a lot of conversations about coffee equipment. Maybe it’s because I talk about it constantly. Maybe it’s because I link to James Hoffmann and Seattle Coffee Gear videos constantly. Maybe (probably) it’s because I insert myself into those conversations when someone says, Oh, just get a Chemex.* 
+For some reason I find myself in a lot of conversations about coffee equipment. Maybe it’s because I talk about it constantly. Maybe it’s because I link to James Hoffmann and Seattle Coffee Gear videos constantly. Maybe (probably) it’s because I insert myself into those conversations when someone says, *Oh, just get a Chemex.*\* 
 
-*Don’t. (Probably.)
+\* Don’t. (Probably.)
 
 Anyway, it seems like watching a ton of coffee YouTube is good for something like talking/writing at some length about tradeoffs between various brewing systems. I’m tired of writing it out every time, so maybe I can just link to this.
 
@@ -43,9 +43,9 @@ The best way to start is with a good inexpensive hand grinder. Consistent grind 
 
 For brewing methods under $50 you have a ton of choices: French press, Aeropress, moka pot, Chemex, pourover.
 
-Perhaps obvious: all of them need a hot water source. The 195–205ºF SCAA range means that you’re taking water off the boil and letting it cool for some indeterminate amount of time, which is fine with a [decent thermometer](https://www.thermoworks.com/Thermapen-Mk4)*.
+Perhaps obvious: all of them need a hot water source. The 195–205ºF SCAA range means that you’re taking water off the boil and letting it cool for some indeterminate amount of time, which is fine with a [decent thermometer](https://www.thermoworks.com/Thermapen-Mk4)\*.
 
-**I know, slightly outrageous, but I cook with it too. And now they run on AAAs instead of coin cell! Indispensable.*
+\* I know, slightly outrageous, but I cook with it too. And now they run on AAAs instead of coin cell! Indispensable.
 
 If you want to pay a little more for some convenience, I really prefer temperature control kettles, especially with a gooseneck spout. I love [this Bonavita one](https://amzn.to/37mqWAx) (currently $45 and an absolute steal at that price).
 
