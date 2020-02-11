@@ -57,11 +57,11 @@ Aeropress is *kind of* like espresso. Less so than many people think. It differs
 
 Immersion also means it’s more grind-forgiving than espresso — I regularly Aeropressed with my Capresso burr grinder. I bet a [blade grinder with some mitigation hacks](https://www.youtube.com/watch?v=3y7d-5KWHCU) would work well too.
 
-I recommend [getting an Aeropress](https://amzn.to/3bskRpD). I like the [inverted brew method](https://www.perfectdailygrind.com/2016/07/inverted-traditional-video-aeropress-brew-method/) but there are** so many** different techniques and recipes, and you can experiment to your heart’s content. There’s an [Aeropress World Championship](https://www.worldaeropresschampionship.com/recipes). Enough said.
+I recommend [getting an Aeropress](https://amzn.to/3bskRpD). I like the [inverted brew method](https://www.perfectdailygrind.com/2016/07/inverted-traditional-video-aeropress-brew-method/) but there are **so many** different techniques and recipes, and you can experiment to your heart’s content. There’s an [Aeropress World Championship](https://www.worldaeropresschampionship.com/recipes). Enough said.
 
 ### Pourover
 
-For me these days it’s the [Hario V60, and I really like the decanter model](https://amzn.to/2Sjhrhx), inspired by [James Hoffmann’s technique video](https://www.youtube.com/watch?v=AI4ynXzkSQo). **Technique is important. **It’s not set-and-forget. It’s perhaps the least set-and-forget method out there. You’re basically always doing something — grinding, stirring, pouring, swirling, etc. A [temperature-controlled gooseneck kettle like the Bonavita](https://amzn.to/37iRLWu) is, in my opinion, a necessity.
+For me these days it’s the [Hario V60, and I really like the decanter model](https://amzn.to/2Sjhrhx), inspired by [James Hoffmann’s technique video](https://www.youtube.com/watch?v=AI4ynXzkSQo). **Technique is important.** It’s not set-and-forget. It’s perhaps the least set-and-forget method out there. You’re basically always doing something — grinding, stirring, pouring, swirling, etc. A [temperature-controlled gooseneck kettle like the Bonavita](https://amzn.to/37iRLWu) is, in my opinion, a necessity.
 
 My current ratio with the decanter V60 is 35g coffee at a 10 setting on my Rocky with 500 mL of just-off-the-boil water. My working timeline:
 
