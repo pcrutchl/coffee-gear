@@ -11,13 +11,13 @@ Anyway, it seems like watching a ton of coffee YouTube is good for something lik
 
 As with many things, home coffee is a *“Quality, convenience, cost: pick two”* situation. Quick links to:
 
-* [Convenient and cheap](#5808)
+* [Convenient and cheap](#convenient-and-cheap)
 
-* [Cheap and good](#facc)
+* [Cheap and good](#cheap-and-high-quality)
 
-* [Convenient and good](#dc4e)
+* [Convenient and good](#convenient-and-good)
 
-* [But what about home espresso?](#0c78)
+* [But what about home espresso?](#but-what-about-home-espresso)
 
 ## Convenient and cheap
 
